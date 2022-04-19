@@ -4,7 +4,7 @@ Usando a biblioteca "Math.random" nos dois jogadores, pude sortear entre pedra, 
 
 <img src="https://raw.githubusercontent.com/professorjosedeassis/javascript/master/aulas/jokenpo/logica%20pedra%20papel%20tesoura.png" style="width: 100%;">
 
-Temos dois codigo o primeiro que você é o juiz e o segundo que você joga contra a máquina.
+Temos dois codigos o primeiro que você é o juiz e o segundo que você joga contra a máquina.
 
 #Como jogar
 
