@@ -12,3 +12,6 @@ Escolha os numero que representam pedra, papel ou tesoura e tente vencer a máqu
 
 1-Pedra | 2-Papel | 3-Tesoura
 
+#Modelagem de Classe/Método
+
+<img src="https://imgur.com/a/jMNsM5H" style="width: 100%;">
