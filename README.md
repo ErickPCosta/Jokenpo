@@ -10,6 +10,5 @@ Temos dois codigo o primeiro que você é o juiz e o segundo que você joga cont
 
 Escolha os numero que representam pedra, papel ou tesoura e tente vencer a máquina.
 
-1 Pedra
-2 Papel
-3 Tesoura
+1-Pedra | 2-Papel | 3-Tesoura
+
