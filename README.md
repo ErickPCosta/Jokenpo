@@ -14,4 +14,4 @@ Escolha os numero que representam pedra, papel ou tesoura e tente vencer a máqu
 
 #Modelagem de Classe/Método
 
-<img src="https://imgur.com/a/jMNsM5H" style="width: 100%;">
+<img src="https://imgur.com/qGjzn5A" style="width: 100%;">
